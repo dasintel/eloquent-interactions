@@ -1,5 +1,5 @@
 {
-    "name": "dasintel/eloquent-interactions",
+    "name": "zachflower/eloquent-interactions",
     "description": "An implementation of the interactor pattern for Laravel.",
     "keywords": ["interactor", "laravel", "library", "eloquent"],
     "license": "MIT",
